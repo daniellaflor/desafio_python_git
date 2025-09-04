@@ -7,3 +7,5 @@ ano_atual=2025
 nascimento=2009
 calculo=( ano_atual - nascimento)
 print(f"Ela nasceu no ano: {nascimento}\n O ano atual é: {ano_atual}\n Sua idade é: {calculo}")
+
+
